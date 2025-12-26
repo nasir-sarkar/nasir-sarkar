@@ -36,7 +36,7 @@ I’m a CSE student at AIUB with growing skills in web development, working with
 ###
 
 <div align="left">
-  <a href="mailto:nasirsarkar537@gmail.com" target="_blank">
+  <a href="nasirsarkar537@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/nasir-sarkar/" target="_blank">
