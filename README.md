@@ -31,7 +31,7 @@ I’m a CSE student at AIUB with growing skills in web development, working with
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
