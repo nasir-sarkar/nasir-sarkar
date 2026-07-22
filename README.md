@@ -1,5 +1,5 @@
 # Hi, I am Nasir Sarkar👋 
-I am a Computer Science and Engineering graduate from American International University Bangladesh, with experience building full stack applications using React, Node.js, Express.js, and MongoDB, along with JavaScript, TypeScript, and Tailwind CSS, and a strong interest in research. I interned as a Full Stack Web Developer at PAP International Ltd., gaining real world experience. I am now expanding into Software Quality Assurance, building a foundation in manual testing and automation tools, with my developer background giving me an advantage in spotting issues before software is released.
+I am a Computer Science and Engineering graduate from American International University Bangladesh with experience building full stack web applications using React, Node.js, Express.js, MongoDB, JavaScript, TypeScript, and Tailwind CSS. I completed my internship as a Full Stack Web Developer at PAP International Ltd., where I gained real-world experience. Alongside my interest in research, I am now expanding into Software Quality Assurance, building a strong foundation in manual testing and automation, while my development background helps me identify issues before software is released.
 
 ###
 
