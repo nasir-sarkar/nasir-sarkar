@@ -3,7 +3,7 @@ I am a Computer Science and Engineering graduate from American International Uni
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Top Skills</h2>
 
 ###
 
