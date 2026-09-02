@@ -44,7 +44,14 @@ I am a Computer Science and Engineering graduate from American International Uni
 
 ###
 
+<h2 align="left">Contribution</h2>
+
+###
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=nasir-sarkar&theme=dark&hide_border=false" alt="nasir-sarkar" />
+  <img src="https://streak-stats.demolab.com/?user=nasir-sarkar&theme=dark&hide_border=true&background=0000" alt="nasir-sarkar" />
+</p>
+
+<p align="center">
+  <img src="game.gif" alt="My GitHub Game" />
 </p>
