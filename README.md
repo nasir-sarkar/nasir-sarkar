@@ -1,8 +1,10 @@
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=1000&color=F78166&center=true&vCenter=true&width=700&lines=Nasir+Sarkar" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FB8C00&center=true&vCenter=true&width=500&lines=Nasir+Sarkar" alt="Typing SVG" />
   </a>
 </p>
+
+###
 
 # Hi, I am Nasir Sarkar👋 
 I am a Computer Science and Engineering graduate from American International University Bangladesh with experience building full stack web applications using React, Node.js, Express.js, MongoDB, JavaScript, TypeScript, and Tailwind CSS. I completed my internship as a Full Stack Web Developer at PAP International Ltd., where I gained real-world experience. Alongside my interest in research, I am now expanding into Software Quality Assurance, building a strong foundation in manual testing and automation, while my development background helps me identify issues before software is released.
