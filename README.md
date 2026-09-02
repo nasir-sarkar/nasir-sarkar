@@ -43,3 +43,12 @@ I am a Computer Science and Engineering graduate from American International Uni
 </div>
 
 ###
+
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nasir-sarkar&show_icons=true&locale=en" alt="nasir-sarkar" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com/?user=nasir-sarkar" alt="nasir-sarkar" />
+</p>
