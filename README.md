@@ -81,7 +81,7 @@
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-sarkar&theme=radical&hide_border=true&background=0d1117&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nasir-sarkar&hide_border=true&background=0d1117&stroke=9e9e9e&ring=fb8c00&fire=fb8c00&currStreakNum=ffffff&currStreakLabel=fb8c00&sideNums=fb8c00&sideLabels=2196f3&dates=9e9e9e" />
 
 </div>
 
