@@ -24,7 +24,7 @@ jobs:
 
       - name: Trim empty space above the grid
         run: |
-          sed -i -E 's/viewBox="-16 -32 ([0-9]+) 192" width="([0-9]+)" height="192"/viewBox="-16 -8 \1 168" width="\2" height="168"/' dist/github-contribution-grid-snake.svg
+          sed -i -E 's/viewBox="-16 -32 ([0-9]+) 192" width="([0-9]+)" height="192"/viewBox="-16 -2 \1 162" width="\2" height="162"/' dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
