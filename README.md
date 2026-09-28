@@ -91,7 +91,7 @@
 
 ## 🎮 Contribution Playground
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=2196F3&center=false&vCenter=true&width=450&height=30&lines=initializing+contribution+game..." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=2196F3&center=false&vCenter=true&width=450&height=24&lines=initializing+contribution+game..." alt="typing" />
 <div align="center">
   <img src="https://raw.githubusercontent.com/nasir-sarkar/nasir-sarkar/output/github-contribution-grid-snake.svg" alt="snake animation" width="95%" />
   <br/><br/>
