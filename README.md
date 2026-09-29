@@ -44,11 +44,11 @@
 
 **Languages & Core**
 <br/>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,cpp,cs&theme=dark" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
 **Backend & Database**
 <br/>
@@ -56,7 +56,7 @@
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode&theme=dark" />
 
 **QA & Testing**
 <br/>
